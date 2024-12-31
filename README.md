@@ -1,5 +1,4 @@
 # SCT_ML_02
-# SCT_ML_03
 K-Means Clustering for Customer Segmentation
 This project implements a K-Means clustering algorithm to group customers of a retail store based on their purchase history. The goal is to segment customers into clusters with similar purchasing patterns to enable targeted marketing, personalized recommendations, or inventory management.
 
